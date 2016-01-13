@@ -19,7 +19,13 @@
 
 }
 /* ============================== Skin Variables ============================ */
-@media (max-width: 991px) {
+@media (max-width: 1280px) {
+    .full-grid-content article p{
+    opacity:3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
   
 }
 @media (max-width: 767px) {
@@ -240,9 +246,19 @@
   }
    .full-grid-content article p{
     opacity:3;
+   font-size: 1em;
+   line-height: 20px;
    visibility: visible;
   }
-
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
  
 @media (max-width: 480px) {
   /* Mobile */
@@ -258,12 +274,52 @@
   h4 {
     font-size: 18px;
   }
+ 
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
    .full-grid-content article p{
     opacity:3;
-    visibility: visible;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
   }
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
 }
-@media (min-width: 992px) and (max-width: 1200px) {
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .full-grid-content article p{
+   opacity: 3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
+    
   /* Mobile Landscape */
   #header .navbar-default .navbar-nav > li > a {
     padding: 40px 15px;
@@ -275,6 +331,46 @@
     left: 20px;
     font-size: 32px;
   }
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
+  
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: .2em;
+    font-weight: 900;
+    letter-spacing: 1px;
+  }
+
+    .full-grid-content article p{
+    opacity:3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
+    
 }
 @media (min-width: 768px) and (max-width: 991px) {
   /* Mobile Landscape */
@@ -289,14 +385,139 @@
     left: 10px;
     font-size: 28px;
   }
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{i
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
+   .full-grid-content article p{
+    opacity:3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
+
+     .secarea{
+      margin-top: -6px;
+
+    }
 }
 @media (min-width: 768px) and (max-width: 1200px) {
   /* Mobile Landscape */
   #header .navbar-default .navbar-nav li .bg-icon {
     left: 15px;
   }
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
+   .full-grid-content article p{
+    opacity:3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
+    .secarea{
+      margin-top: -6px;
+
+    }
 }
 @media (min-width: 480px) and (max-width: 767px) {
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
+   .full-grid-content article p{
+    opacity:3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
+.footer .ftop{
+    height: 124px;
+      background-size: 100%;
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
+     .secarea{
+      margin-top: -6px;
+
+    }
+.fade-ticker{
+  left:300px;
+}
+
   /* Mobile Landscape */
 }
 @media (min-width: 320px) and (max-width: 479px) {
@@ -304,6 +525,47 @@
   #header .navbar-header-phone {
     display: none;
   }
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
+   .full-grid-content article p{
+    opacity:3;
+   font-size: 1em;
+   line-height: 20px;
+   visibility: visible;
+  }
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
+
+     .secarea{
+      margin-top: -6px;
+
+    }
 }
 @media (max-width: 319px) {
   /* Mobile Portrait */
@@ -311,8 +573,47 @@
     display: none;
   }
 
+  
+   section {
+    overflow: hidden;
+    border: none;
+    margin-top: 0;
+
+  }
+   .fusion-separator.sep-double{
+    
+    margin-top: 35px;
+    
+  }
+  #transition{
+    height:20px;
+    margin-top: -20px;
+    
+  }
+   #transition p img{
+    
+    margin-top: 22px;
+    
+  }
    .full-grid-content article p{
     opacity:3;
+   font-size: 1em;
+   line-height: 20px;
    visibility: visible;
   }
+.footer .ftop{
+    height: 100px;
+      background-size: 451px
+}
+.footer .ftop .left h1 {
+    color: #0E0A0A;
+    font-size: 1.2em;
+    font-weight: 900;
+    letter-spacing: 1px;}
+     .secarea{
+      margin-top: -6px;
+
+    }
+
+
 }

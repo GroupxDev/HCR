@@ -236,6 +236,9 @@
 	.navbar-collapse.collapse {
 		float: right;
 	}
+
+	
+
 }
 
 @media (max-width:767px) {
@@ -302,8 +305,9 @@
 	}
 	
 	.full-grid-content article .full-grid-title h2 {
-		font-size: 30px;
-		line-height: 34px;
+		font-size: 1.5em;
+		line-height: 17px;
+    	padding: 1px;
 	}
 	
 	.full-grid-content article .full-grid-title {
@@ -413,7 +417,16 @@
 		line-height: 35px;
 		letter-spacing: 4px;
 	}
+
+	
+
+	
+
 }
+}
+
+
+
 						/* SMALL DEVICES*/
 @media (max-width:550px) {
 	.header .header-search-form {
@@ -468,3 +481,19 @@
 	}
 
 }
+.big-text h1{
+
+	width:100%;
+}
+.head-title{
+	font-size: 2em;
+}
+
+
+.full-screen-block .fade-ticker{
+	bottom:1%;
+	
+}
+
+}
+

@@ -395,24 +395,26 @@ Revolution slider
   padding-top: 10px;
 }
 .full-screen-block .fade-ticker {
+  font-family: 'JosefinSans', sans-serif;
   position: absolute;
-  bottom: 0;
-  left: 0;
+  
 }
 .full-screen-block .fade-ticker .big-text {
   padding: 30px;
 }
 .full-screen-block .fade-ticker .big-text h1 {
-  font-size: 60px;
-  color: #222222;
+  font-size: 35px;
+  color: rgba(0, 0, 0, 0.8);
   text-align: center;
   text-transform: uppercase;
-  font-weight: 700;
-  font-family: 'JosefinSans', sans-serif;
+  font-weight: 300;
+  text-shadow: 1px 1px 1px rgba(255,255,255,0.5);
+ font-family:'JosefinSans', sans-serif;
 }
 .full-screen-block .fade-ticker .big-text h1 span {
-  color: #b46e3c;
+  color: rgba(255, 255, 255,1);
   font-weight: 700;
+   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
 .full-screen-block .btn-default {
   color: #b46e3c;
@@ -856,7 +858,7 @@ section.bg-non-fixed {
   height: 100%;
   background-image: url("../img/main4.jpg");
   background-size: cover;
-  background-position: top left;
+  background-position-x:18%;
 }
 .section-block-title {
   position: relative;
